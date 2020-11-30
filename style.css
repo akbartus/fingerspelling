@@ -1,0 +1,372 @@
+body {
+  background: #fff;
+  margin: 0 auto;
+  overflow: hidden;
+  font-size: 20px;
+}
+
+#what2Say {
+  font-size: 20px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  text-align: center;
+  z-index: 50;
+  border-radius: 5px;
+  padding: 2px;
+  margin: 2px;
+}
+
+#container {
+  cursor: default;
+}
+
+.asl {
+  margin: 0 auto;
+  display: block;
+}
+
+
+.asl2 {
+  top: 5vw;
+  left: 50%;
+  position: relative;
+  margin-bottom: -8vw;
+  display: inline-block;
+  transform: translate(-50%, -50%) scale(.3);
+}
+
+.asl3 {
+  top: 5vw;
+  left: 50%;
+  position: relative;
+  margin-bottom: -8vw;
+  display: inline-block;
+  transform: translate(-50%, -26%) scale(.3);
+}
+
+.asl4 {
+  top: 5vw;
+  left: 50%;
+  position: relative;
+  margin-bottom: 2vw;
+  display: inline-block;
+  transform: translate(-50%, -26%) scale(.3);
+}
+
+.asl-a::before {
+  background-image: url(images/a.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-b::before {
+  background-image: url(images/b.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+
+  content: "";
+}
+
+.asl-c::before {
+  background-image: url(images/c.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-d::before {
+  background-image: url(images/d.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-e::before {
+  background-image: url(images/e.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-f::before {
+  background-image: url(images/f.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-g::before {
+  background-image: url(images/g.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-h::before {
+  background-image: url(images/h.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-i::before {
+  background-image: url(images/i.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-j::before {
+  background-image: url(images/j.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-k::before {
+  background-image: url(images/k.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-l::before {
+  background-image: url(images/l.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-m::before {
+  background-image: url(images/m.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-n::before {
+  background-image: url(images/n.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-o::before {
+  background-image: url(images/o.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-p::before {
+  background-image: url(images/p.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-q::before {
+  background-image: url(images/1.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-r::before {
+  background-image: url(images/r.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-s::before {
+  background-image: url(images/s.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-t::before {
+  background-image: url(images/t.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-u::before {
+  background-image: url(images/u.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-v::before {
+  background-image: url(images/v.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-w::before {
+  background-image: url(images/w.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-x::before {
+  background-image: url(images/x.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-y::before {
+  background-image: url(images/y.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+.asl-z::before {
+  background-image: url(images/z.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 800px;
+  height: 500px;
+  content: "";
+}
+
+#center {
+  width: 100%;
+  text-align: center;
+  /* margin-top: 77px; */
+  position: absolute;
+  display: table;
+  height: 100%;
+}
+
+#center>div {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.right {
+  width: 50%;
+  height: 100%;
+  text-align: center;
+  background: rgb(255 175 78 / 0.5);;
+}
+
+.left {
+  width: 50%;
+  height: 100%;
+  text-align: center;
+}
+
+#texttosign {
+  display: block;
+  margin: 0 auto;
+  height: 20px;
+  position: relative;
+}
+
+#output {
+  background-color: #F9F9F9;
+  padding: 10px;
+  width: 100%;
+  margin-top: 20px;
+  line-height: 30px;
+}
+
+.hide {
+  display: none;
+}
+
+#word {
+  font-size: 40px;
+  font-weight: bold;
+  position: relative;
+  display: block;
+}
+
+#smalltext {margin-top:5%;}
+#initializer {font-weight:bold;}
